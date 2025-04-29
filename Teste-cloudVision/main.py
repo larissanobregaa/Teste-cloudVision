@@ -4,6 +4,7 @@ from PIL import Image, ImageFilter
 from pdf2image import convert_from_path
 from google.cloud import vision
 
+
 CREDENTIAL_PATH = r"C:\Users\Larissa Nobrega\Documents\Projetos\Teste-cloudVision\Teste-cloudVision\credenciais\primeiro-teste-456814-f1c10b6e1f97.json"
 POPPLER_PATH = r"C:\Users\Larissa Nobrega\Documents\Projetos\Teste-cloudVision\poppler-24.08.0\Library\bin"
 PDFS_FOLDER = r"C:\Users\Larissa Nobrega\Documents\Projetos\Teste-cloudVision\Teste-cloudVision\imagens"

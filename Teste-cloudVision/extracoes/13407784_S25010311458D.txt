@@ -733,7 +733,6 @@ Registro de Imóveis via www.ridigital.org.br
 ...onr
 
 --- Página 13 ---
-GTP - Mod. 1
 Valide aqui
 este documento
 3.343
@@ -754,6 +753,8 @@ Número do último ato praticado nesta matrícula: 21.
 O conteúdo da certidão é verdadeiro e autêntico. Recolhimento conforme art. 12 da Lei 11.331/2002.
 |Emolumentos:
 R$44,20
+Valide este documento clicando no link a seguir: https://assinador-web.onr.org.br/docs/TQZPL-764KS-93ZZ8-95QAZ
+GTP - Mod. 1
 Estado:
 R$12,56
 Sec.Fazenda: Reg. Civil:
@@ -767,7 +768,6 @@ Município
 R$1,37
 Total:
 R$74,21
-Valide este documento clicando no link a seguir: https://assinador-web.onr.org.br/docs/TQZPL-764KS-93ZZ8-95QAZ
 Esta certidão, gerada e assinada com Certificação Digital ICP-Brasil, nos termos da Medida Provisória nº 2200-2/2001,
 do Provimento CG nº 30/2018, artigo 7°, V e das Especificações dos Requisitos de Software do Tribunal de Justiça-SP,
 pode ter sua autenticidade e procedência, assim como a aferição dos atos e valores praticados, consultados nos
