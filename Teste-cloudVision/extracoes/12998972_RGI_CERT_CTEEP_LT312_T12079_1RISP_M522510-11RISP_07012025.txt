@@ -5,7 +5,6 @@ Integram a circunscrição imobiliária de competência deste Serviço de Regist
 o 29° Subdistrito - SANTO AMARO e 32º Subdistrito - CAPELA DO SOCORRO, desde
 07 de outubro de 1939; - e o Distrito de PARELHEIROS, desde 15 de maio de 1944.
 01567643
-São Paulo,
 11RI 01567643
 S
 PLINIO ANTONIO CHAGAS, Bacharel em Direito, Décimo Primeiro Oficial de Registro de
@@ -14,7 +13,6 @@ CERTIFICA, a pedido do(a,s) interessado(a,s), que, revendo o Livro 2 (dois) de R
 Geral do Serviço de Registro de Imóveis a seu cargo, dele consta a matrículado teor seguinte:
 11° REGISTRO DE IMÓVEIS DE SÃO PAULO
 CNS n° 11.117-9
-LIVRO Nº 2 - REGISTRO GERAL
 CNM
 111179.2.0522510-60
 Ficha
@@ -23,6 +21,8 @@ Matrícula
 522.510
 UO
 ...on
+LIVRO Nº 2 - REGISTRO GERAL
+São Paulo,
 03 de janeiro de 2025
 IMÓVEL: TERRENO situado no Bairro Cocaia, no 29° Subdistrito - Santo Amaro,
 com a seguinte descrição: começa à margem direita da estrada que vai ao povoado de
@@ -64,11 +64,11 @@ LOPES; e assinado digitalmente pelo Oficial Plinio Antonio Chagas.
 Hash: 1565174-780CA6D4-1079-4759-BF64-C54221D0ED29
 Continua no verso
 Pág: 00001 /00004
+saec
 Certidão emitida pelo SREI
 www.registradores.onr.org.br
 Esse documento foi assinado digitalmente por ALEX SANDRO ARAUJO SILVA - 06/01/2025 15:29
 Serviço de Atendimento
-saec
 Eletrônico Compartilhado
 
 --- Página 2 ---

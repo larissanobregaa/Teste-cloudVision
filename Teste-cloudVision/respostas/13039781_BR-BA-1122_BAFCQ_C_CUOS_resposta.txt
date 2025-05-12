@@ -1,0 +1,22 @@
+Este documento é um parecer favorável da prefeitura de Feira de Santana, na Bahia, Brasil, para a instalação de uma estação rádio base (ERB).  As informações principais são:
+
+* **Solicitante:**  O solicitante é a empresa "Claro S/A" (conforme número do processo).
+
+* **Localização:** A ERB será instalada na Estrada Ovo de Ema, s/nº, Distrito de Maria Quitéria, Feira de Santana, BA.  As coordenadas geográficas também são fornecidas.
+
+* **Objetivo:** A instalação da ERB visa melhorar a cobertura de telefonia móvel na região.
+
+* **Condições:** O parecer favorável está condicionado ao cumprimento de diversas exigências legais e técnicas, incluindo:
+    * Cumprimento da Lei Complementar Municipal nº 131/2009 e outras leis pertinentes.
+    * Apresentação de projeto arquitetônico e de proteção contra descargas atmosféricas (SPDA).
+    * Obtenção de Alvará de Construção e Habite-se.
+    * Adequação às normas de segurança e meio ambiente.
+    * Respeito às distâncias mínimas de outras construções e infraestruturas.
+    * Estudo de Impacto de Vizinhança (EIV).
+    * Apresentação de Plano de Proteção de Árvores (APT) e relatório de avaliação de impacto ambiental.
+    * Cumprimento das normas de telecomunicações.
+
+* **Validade:** O parecer tem validade até 27 de Dezembro de 2021, podendo ser renovado.
+
+
+Em resumo, o documento é um parecer técnico que aprova a instalação da estação rádio base, desde que sejam atendidas as condições e requisitos legais e técnicos especificados.  É um documento formal com número de processo e data de publicação.

@@ -1,0 +1,14 @@
+Este é um documento do Registro de Imóveis da Comarca de Andradina, São Paulo, referente à matrícula nº 31.497. O documento detalha o histórico de transações e proprietários de um terreno localizado em Andradina.
+
+**Resumo das informações principais:**
+
+* **Localização:** Andradina, São Paulo.
+* **Matrícula:** 31.497.
+* **Área:** 6.7088 ha.
+* **Descrição da área:** O documento descreve detalhadamente a localização e os limites do terreno, fazendo referência a pontos de divisa, ruas e outras propriedades.
+* **Histórico de proprietários:** O documento registra os diferentes proprietários do imóvel ao longo do tempo, incluindo nomes, documentos de identificação e transações realizadas (compra e venda, etc.).
+* **Transações:** Registra uma compra e venda realizada em 2010, com detalhes sobre os vendedores e compradores.
+* **Averbações:** Inclui diversas averbações, como alteração de cadastro, mudança de denominação de rua, e regularização de imóvel.
+* **Certificado:** O documento possui um certificado digital de validação emitido em 29 de janeiro de 2025.
+
+Em resumo, o documento apresenta um registro completo e detalhado da história legal e das transações relacionadas a um imóvel específico em Andradina, São Paulo.

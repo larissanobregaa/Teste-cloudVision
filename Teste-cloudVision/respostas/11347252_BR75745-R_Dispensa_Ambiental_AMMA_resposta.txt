@@ -1,0 +1,15 @@
+Este documento é um parecer jurídico emitido pela Prefeitura de Goiânia, Agência Municipal do Meio Ambiente, Chefia da Advocacia Setorial. As informações principais são:
+
+* **Parecer Jurídico nº 2481/2024 e Informe Jurídico nº 074/2024:**  Números de identificação dos documentos.
+
+* **Assunto:** Dispensa de licenciamento ambiental para instalação de infraestruturas de suporte para Estação Transmissora de Rádiocomunicações - ETR, em Goiânia. O parecer conclui que não é necessária a licença ambiental para equipamentos de pequeno porte que não estejam sujeitos à legislação ambiental (baseado em legislação municipal e federal).
+
+* **Base Legal:** O parecer se baseia em leis municipais e federais (Lei Municipal nº 11.003/2023 e  Lei Federal nº 13.116, de 2015 - ANATEL).  Faz referência à dispensa de licença para equipamentos de baixa potência especificados na legislação.
+
+* **Conclusão:**  A instalação das infraestruturas de suporte para a ETR em questão *não* requer licença ambiental.  A dispensa é cabível em casos que não sejam exigíveis.
+
+* **Destinatário:** O parecer é endereçado à Diretoria de Licenciamento Ambiental – DIRLIN/Gerência de Remetida e Qualidade Ambiental – GERLQA, para conhecimento e ratificação.
+
+* **Data e Assinatura:** O documento foi assinado eletronicamente por Tatiana Oliveira Silva em 21 de agosto de 2024.  Inclui um código de verificação para autenticação do documento.
+
+Em resumo, o parecer jurídico justifica a dispensa de licença ambiental para a instalação de infraestruturas de suporte de uma estação transmissora de rádio, com base em leis e regulamentos vigentes.

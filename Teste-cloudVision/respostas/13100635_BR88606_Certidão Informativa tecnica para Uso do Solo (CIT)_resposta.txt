@@ -1,0 +1,17 @@
+Este documento é uma **Certidão** emitida pela Prefeitura de Manaus, com o número 5606/2024, fornecendo informações técnicas para uso e ocupação do solo.  Especificamente, trata-se de uma certificação para uma **solicitação de certificação de informações técnicas para uso do solo** relacionada à:
+
+* **Proprietária:** Companhia Tropical de Hotéis da Amazônia - Falido.
+* **Localização:**  Av. Coronel Teixeira, nº 1320, Ponta Negra, Manaus, AM. (Setor 15, Bairro de Ponta Negra, área que abrange o Aeroporto e corredor do distrito).
+* **Objetivo:** Construção ou atividade que requer essa certificação (não explicitado explicitamente, mas implícito na descrição de parâmetros e usos permitidos).
+
+A certidão detalha:
+
+* **Parâmetros urbanísticos:**  Incluindo informações sobre acesso, estacionamento, altura máxima, recuos, área de preservação ambiental, gabaritos, etc.
+* **Usos Permitidos:** Residencial, tipo 1, tipo 2, tipo 3; tipo 4 (exceto para uso industrial); e comércio atacadista.  O uso industrial é explicitamente mencionado como solicitada para uso industrial e comércio atacadista.
+* **Atividades Permitidas:** A certidão especifica e descreve as restrições e requisitos para atividades como a instalação de uma estação de rádio base ou estação transmissora.
+* **Considerações Ambientais:** O documento aborda a necessidade de avaliação quanto à área de preservação permanente (APP) e os processos de licenciamento ambiental.
+* **Informações Adicionais:**  A certidão faz referência a leis, decretos, normas, legislações (como o Código de Obras de Manaus) e sistemas de informação geográfica (SIG) relevantes para a verificação da conformidade da construção ou atividade planejada.
+* **Responsabilidades:** Indica o responsável pela emissão da certidão e a data.
+
+
+Em resumo, a certidão atesta a viabilidade (ou não) da ocupação do solo para um determinado uso, com base na legislação e normas urbanísticas de Manaus, sob certas condições e restrições.  As atividades permitidas e as restrições são especificadas no documento.  Sem mais informações sobre o projeto específico, não é possível saber com certeza o que a empresa deseja construir ou quais atividades pretende desenvolver.

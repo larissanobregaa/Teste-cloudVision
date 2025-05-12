@@ -1,0 +1,11 @@
+Este documento é um Alvará de Localização e Funcionamento emitido pelo Município de Aparecida do Taboado, Mato Grosso do Sul, para a empresa Grupo Casas Bahia S/A.  As informações principais incluem:
+
+* **Dados da Empresa:** Nome, CNPJ, endereço completo, atividade comercial (detalhada lista de códigos de atividade econômica), área utilizada.
+* **Dados do Alvará:** Número do cadastro, número de inscrição, número do alvará, data de validade (15/11/2025).
+* **Horário de Funcionamento:** Dias e horários de funcionamento.
+* **Licenças:** Números e datas de validade das licenças da empresa (corpo de bombeiros).
+* **Observações:** Instruções sobre a afixação do documento, atualização e baixa do cadastro.
+* **Dados da Autoridade:** Assinatura e carimbo da autoridade que emitiu o alvará.
+* **Código de Autenticidade:** Um código para verificar a autenticidade do documento.
+
+Em resumo, o documento certifica a localização e autoriza o funcionamento da filial do Grupo Casas Bahia em Aparecida do Taboado, de acordo com as informações e regulamentações especificadas.
