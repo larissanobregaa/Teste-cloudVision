@@ -1,0 +1,47 @@
+Aqui está um resumo do conteúdo principal do documento:
+
+**O documento é uma Licença de Operação emitida pela Secretaria Municipal de Meio Ambiente, Sustentabilidade e Mudança do Clima (SEMASCIMA) do estado do Amazonas, Brasil.**
+
+**Informações principais contidas na licença:**
+
+*   **Número da Licença:** 002/2025
+*   **Empresa:** SBA Torres Brasil, Limitada
+*   **CNPJ:** 16.587.135/0001-35
+*   **Endereço da Empresa:** Avenida das Nações Unidas, nº 12399, Condomínio Flórida Penthouses Landmark, Torre C, Andar 5, Conjunto 51-A, Brooklin Paulista - São Paulo/SP.
+*   **Atividade:** Serviço de Telecomunicação
+*   **Finalidade:** Implantação de Torre Telefônica - Estação Rádio Base - BR88583-A
+*   **Endereço da Implantação:** Rua Rio Pirapó, Nº106, Antiga Estrada da Hospedaria - Vila Buriti - Manaus/AM
+*   **Coordenadas:** 59º 58' 58,747" W 3º 9' 28,348" S
+*   **Porte do Empreendimento:** Pequeno
+*   **Potencial de Impacto:** Médio
+*   **Validade:** 12 meses
+*   **Vencimento:** 10 de janeiro de 2026
+
+**Restrições e Condições (Resumidas):**
+
+*   A licença só é válida após publicação no Diário Oficial do Município (DOM).
+*   Necessidade de requerer nova licença em caso de alterações na documentação.
+*   Não substitui outros documentos exigidos pela legislação.
+*   A renovação da licença deve ser requerida com antecedência mínima de 120 dias.
+*   O descumprimento de quaisquer itens pode acarretar sanções.
+*   Manter exposto no local da ERB, cópia autenticada desta licença ou original.
+*   Instalações verticais devem seguir normas de segurança.
+*   É expressamente proibida a queima de quaisquer tipos de resíduos gerados em eventuais manutenções da ERB.
+*   Toda estação deverá conter sistema de proteção contra descargas atmosféricas (SPDA).
+*   Manter no perímetro das estações, proteção que impeça o acesso de pessoas não autorizadas e animais.
+*   Manter em local visível, nas dependências da infraestrutura, a identificação da detentora em questão e das eventuais empresas que venham compartilhar a estrutura desta ERB.
+*   Após a implantação da ERB, o interessado deverá apresentar Carta de Compartilhamento da Infraestrutura com as operadoras que, porventura, irão instalar antenas na estrutura, devendo apresentar ainda Registro da Estação de Radiocomunicação junto a Agência Nacional de Telecomunicações (ANATEL).
+*   Área localizada em questão está inserta em Sítio Arqueológico denominado Paredão I.
+*   Fica proibida qualquer intervenção na Área de Preservação Permanente - APP sem a devida AUTORIZAÇÃO PARA INTERVENÇÃO EM APP expedida por esta SEMMASCIMA.
+*   De acordo com a RESOLUÇÃO Nº 087/2016 COMDEMA (Art. 81 e Anexo IV, item III) como forma de compensação ambiental pela intervenção em área de 105,43 m², o interessado deverá doar a SEMMASCIMA realizando a entrega no setor de produção de mudas localizado no Instituto Federal do Amazonas antiga Escola Agrotécnica, situado na Alameda Cosme Ferreira – Zumbi – Campus Distrito, a quantidade de:
+    *   106 (cento e seis) mudas, acondicionadas em embalagens apropriadas as mudas frutíferas (saco de Polietileno medindo 22 x 0,06 cm, cor preta, com furos para drenagem e torrão firme para facilitar o plantio) e em bom estado fitossanitário com as seguintes características: muda ereta, cor uniforme, sem deformações, ausência de ataques de pragas, doenças ou deficiência nutricional, das espécies (com altura mínima de 50 cm): de:
+        *   26 Rambutã (Nephelium lappaceum);
+        *   27 Acerola (Malpighia emarginata);
+    *   e acondicionar em embalagens apropriadas as mudas florestais (saco de Polietileno medindo 28 x 0,06 cm, cor preta, com furos para drenagem e torrão firme para facilitar o plantio) e em bom estado fitossanitário com as seguintes características: muda ereta, cor uniforme, sem deformações, ausência de ataques de pragas, doenças ou deficiência nutricional, das espécies (com altura mínima de 1,5 m): de:
+        *   27 Ingá xixica (Inga laurina);
+        *   26 Murici (Byrsonima crassifolia), no prazo máximo de 12 (doze) meses a contar do recebimento desta.
+
+*   Quando da entrega das mudas, o interessado deverá apresentar comprovante neste SEMMASCIMA.
+*   A aquisição das mudas deverá ser realizada junto a produtor de mudas devidamente cadastrado no Registro Nacional de Sementes de Mudas – RENASEM, em atendimento ao disposto na Lei nº 10.711/2003.
+
+Em resumo, a licença autoriza a SBA Torres Brasil a operar uma estação rádio base em um local específico em Manaus, desde que cumpra uma série de condições e restrições ambientais, incluindo a compensação através da doação de mudas de árvores.

@@ -1,6 +1,0 @@
---> imagens: PDFs de entrada 
---> imagens_convertidas: imagens extraídas dos PDFs (é preciso converter os pdf's para imagem para que o gemini entenda o conteúdo)
---> extracoes: arquivos .txt extraídos 
---> respostas: respostas do gemini pro vision
---> main: script principal
---> pergunta_gemini: novo módulo para perguntas ao gemini

@@ -1,0 +1,5 @@
+python-dotenv
+Pillow
+pdf2image
+google-cloud-vision
+google-generativeai

@@ -1,0 +1,38 @@
+Aqui está um resumo do conteúdo principal do documento:
+
+**Propósito:**
+
+O documento é um Certificado de Informação Técnica para Uso e Ocupação do Solo (CERTIDÃO) emitido pela Prefeitura de Manaus. Ele informa as condições para uso e ocupação do solo em um determinado endereço.
+
+**Localização:**
+
+*   Sito: Avenida Coronel Teixeira, nº 1320, Ponta Negra, Hall Tropical Hotel, 69.030-000
+
+**Zoneamento:**
+
+*   Zona: Setor 15 (Bairro Ponta Negra) Área Especial Aeroportuária, Corredor AV. Brasil/Ponta Negra, Segmento Praia da Ponta Negra, Subsetor Orla Oeste
+
+**Diretrizes:**
+
+*   Subsetor: Estimulo às atividades residenciais, comerciais e aos serviços de apoio ao transporte fluvial, ao turismo e ao lazer.
+
+**Usos permitidos:**
+
+*   Residencial unifamiliar e multifamiliar; comercial; serviço; industrial de baixo impacto.
+
+**Atividade Solicitada:**
+
+*   Estação Rádio Base - ERB ou Estação Transmissora de Radiocomunicação - ETR.
+
+**Parâmetros Urbanísticos:**
+
+*   TAXA DE PERMEABILIZAÇÃO MÍNIMA: Deverá atender ao disposto no artigo 75
+*   DENSIDADE: Alta; UTILIZAÇÃO/OCUPAÇÃO: Alta; COEFICIENTE DE APROVEITAMENTO DO TERRENO (CAPR): 4,8*R.
+*   GABARITO MÁXIMO DA EDIFICAÇÃO: 25 pavimentos.
+
+**Observações:**
+
+*   O imóvel está inserido parcialmente em Área de Risco e totalmente inserido em Área de Preservação Permanente - APP, devendo atender ao decreto nº 1.648, de 12 DE NOVEMBRO 2019.
+*   Será necessário formalizar solicitação de avaliação junto ao órgão ambiental municipal ou estadual, conforme competência, de licenciamento definida entre os órgãos ambientais, para avaliação da possibilidade de obtenção de licença ambiental.
+*   Estação Transmissora de Radiocomunicação (ETR) móvel e ERB Mini, no município deverão buscar a adequação das vias urbanas, considerando os espaços inseridos na cidade, a segurança e o conforto das pessoas e os princípios de universal acessibilidade.
+*   O documento está sujeito a alterações na legislação superveniente.

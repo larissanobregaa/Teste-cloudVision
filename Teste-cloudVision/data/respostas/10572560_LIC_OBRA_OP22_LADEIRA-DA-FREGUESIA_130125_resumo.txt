@@ -1,0 +1,28 @@
+Aqui está um resumo do conteúdo principal do documento:
+
+**Tipo de Documento:** Licença de Obra, Reparo ou Serviço em Vias Públicas, emitida pela Prefeitura da Cidade do Rio de Janeiro.
+
+**Informações Principais:**
+
+*   **Objetivo:** Legalização de obra, reparo ou serviço em vias públicas.
+*   **Data de Emissão:** 07/01/2025
+*   **Número do Processo:** CSV-PRO-2024/00390
+*   **Responsável:** 15ª Gerência de Conservação
+*   **Dados da Obra:**
+    *   **Prazo:** 7 dias (16/08/2023 - 22/08/2023)
+    *   **Endereço:** Esquina entre Ladeira da Freguesia e Av. Geremário Dantas, 0 - FREGUESIA - JACAREPAGUÁ - RIO DE JANEIRO - RJ
+    *   **Natureza da Obra:** Instalação de Poste com painel Elétrico para energizar sistema automatizado
+    *   **Método Executivo:** Método Destrutivo
+    *   **Área:** Vários valores especificados (m2, unidade, mm)
+*   **Dados da Empresa Requerente:**
+    *   **Razão Social:** IGUA RIO DE JANEIRO S.A
+    *   **CNPJ:** 42.353.180/0001-35
+    *   **Endereço:** Avenida Ayrton Senna, 1791 - BARRA DA TIJUCA - RIO DE JANEIRO - RJ - CEP: 22775-002
+*   **Dados da Firma Executora e Responsável Técnico:** Semelhantes aos dados da empresa requerente, com a adição do nome e número do CREA/CAU do profissional responsável (Lucas Tadeu Bergamim Arrosti).
+*   **Condições de Execução:**
+    *   A licença não pode ser alterada ou plastificada.
+    *   As obras/serviços devem seguir os padrões estabelecidos pela Resolução SECONSERVA nº 07 de 09/07/2010.
+    *   A licença acompanha o projeto técnico aprovado.
+*   **Assinatura:** Assinado digitalmente por Josué Lasaro Resende de Paiva (Assistente I), com número de matrícula e identificação do setor (SC/SE-COR-VIAS).
+
+Em essência, o documento é uma licença concedida à IGUA RIO DE JANEIRO S.A. para realizar uma obra específica (instalação de poste com painel elétrico) em um local determinado, sob certas condições e dentro de um prazo definido.

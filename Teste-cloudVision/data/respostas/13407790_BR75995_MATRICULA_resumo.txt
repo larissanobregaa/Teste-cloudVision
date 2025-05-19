@@ -1,0 +1,9 @@
+O documento é uma matrícula de imóvel (número 31.497) da Comarca de Andradina, Estado de São Paulo. Ele detalha:
+
+*   **Descrição do Imóvel:** Uma área de terras de aproximadamente 5,7088 hectares, localizada em Andradina-SP. A descrição inclui suas medidas, confrontações com outras propriedades e referências geodésicas.
+*   **Proprietários:** Informa os proprietários atuais, incluindo seus nomes, CPF e informações sobre o regime de comunhão de bens (ELZA OBICCI MINHOLLI).
+*   **Registro Anterior:** Menciona o número do registro anterior do imóvel.
+*   **Transações:** Apresenta um histórico de diversas transações relacionadas ao imóvel, incluindo vendas, cancelamentos, atualizações de confrontação e outras averbações. As transações detalham datas, partes envolvidas, valores e informações dos responsáveis pelos registros.
+*   **Certidão RI:** Inclui uma certidão negativa de ônus do imóvel, válida até 29 de janeiro de 2025.
+
+Em resumo, o documento é um histórico completo do imóvel, registrando todas as informações relevantes sobre sua propriedade e transações ao longo do tempo. Inclui ainda um certificado negativo de ônus.
